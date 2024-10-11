@@ -5,7 +5,7 @@ This script returns the floor of a number
 """
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """
     this function returns the floor of a float number
 
