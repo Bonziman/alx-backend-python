@@ -14,5 +14,5 @@ def concat(str1: str, str2: str) -> str:
   Returns:
   str: The oncatenated strings.
   """
-    rslt: str = "str1" + "str2"
+    rslt: str = "{}{}".format(str1, str2)
     return rslt
