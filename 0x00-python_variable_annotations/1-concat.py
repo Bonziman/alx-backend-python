@@ -14,4 +14,5 @@ def concat(str1: str, str2: str) -> str:
   Returns:
   str: The oncatenated strings.
   """
-    return "str1" + "str2"
+    rslt: str = "str1" + "str2"
+    return rslt
