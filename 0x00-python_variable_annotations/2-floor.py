@@ -7,12 +7,12 @@ This script returns the floor of a number
 
 def floor(n: float) -> int:
     """
-    this function returns the floor of a float number
+    This function returns the floor of a float number.
 
     Args:
-    n (float): the number to return its float
+    n (float): The number to return its floor.
 
     Returns:
-    int: the floor of n
+    int: The floor of n.
     """
     return math.floor(n)
