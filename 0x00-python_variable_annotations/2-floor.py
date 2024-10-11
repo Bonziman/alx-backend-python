@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 import math
 """
-This script returns the floor of a number
+This script contains a function that returns the floor of a number.
+
+Modules:
+    math: Provides mathematical functions, including floor.
+
+Functions:
+    floor(n: float) -> int: Returns the floor of the given float number.
 """
 
 
