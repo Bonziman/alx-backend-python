@@ -10,9 +10,9 @@ def floor(n: float) -> int:
     this function returns the floor of a float number
 
     Args:
-    n (float): the number to return it's float
+    n (float): the number to return its float
 
     Returns:
-    float:the floor of n
+    int: the floor of n
     """
     return math.floor(n)
